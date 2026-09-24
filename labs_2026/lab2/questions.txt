@@ -1,0 +1,14 @@
+Questions:
+
+How does the "saving function" work in regex, with () and then access with \1
+
+Also look more into regex overall 
+
+Unigrams and bigrams? 
+
+In the report, tell what is the possible number of bigrams and their real number? Explain why such a difference. 
+What would be the possible number of 4-grams.
+Propose a solution to cope with bigrams unseen in the corpus.
+
+Unigram_lm
+
